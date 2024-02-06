@@ -1,0 +1,99 @@
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <!DOCTYPE html>
+<body>
+  <img src="back.jpg" alt="background image" id="background-img">
+  <!-- Your content goes here -->
+</body>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <title>home</title>
+</head>
+<body>
+  <title>Your Home Index</title>
+</head>
+<body>
+  <h1>Welcome to the www.guta.com<br>where u can streem and downlod music</h1>
+  <style>
+  h1 {
+    font-size: 12px;
+    </style>
+  <!-- Add a link to your "room1" -->
+  <a href="download .html">Download Music</a>
+
+</body><meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+<br><body>
+  <title>welcome</title>
+</head>
+<body>
+  <h1>Welcome to the www.guta.com<br>where u can streem and downlod music</h1>
+  <style>
+  h1 {
+    font-size: 12px;
+    </style>
+  <!-- Add a link to your "room1" -->
+  <a href="vote site.html">vote</a>
+
+</body><meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      color: #3498db;
+    }
+  </style>
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <![endif]-->
+</html>
+
+<h4>    <style>
+  h4 {
+    font-size: 19px;
+    background-color:red;
+    border-radius: 60px 0 60px 0;
+    </style>    popular songs this month</h4>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <h1>yo maps</h1>
+
+    <a href="yo maps.html"><style>
+      a{ background-color:white}</style>visit yo maps</a>
+
+</body>
+</html>
+
+<img src="kel.jpg" height="400" width="300"><br>
+<body>
+
+    <h1>zuchu</h1>
+
+    <a href="zuchu .html"><style>
+      a{ background-color:white}</style>visit zuchu</a>
+
+</body>
+</html>
+
+<img src="zuchu.jpg" height="400" width="300">
+
+
